@@ -1,4 +1,4 @@
-🧴 Plataforma Dermatológica
+🧴 Plataforma Hiperlocal para Servicios Dermatológicos 
 
 Este proyecto consiste en el desarrollo de una plataforma digital hiperlocal orientada a consultorios dermatológicos, con el objetivo de mejorar la conexión entre pacientes, especialistas y servicios disponibles dentro de la comunidad.
 
