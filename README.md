@@ -34,7 +34,11 @@ Catálogo de productos dermatológicos
 Notificaciones y recordatorios de citas
 
 🛠️ Tecnologías utilizadas
+
 Backend: Python
+
 Framework: Flask
+
 Base de datos: MySQL / PostgreSQL
+
 Control de versiones: Git + GitHub
