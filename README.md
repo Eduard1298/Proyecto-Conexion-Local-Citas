@@ -1,13 +1,41 @@
-# Proyecto-Conexion-Local-Citas
-🏥 API de Agendamiento de Citas Médicas
+🧴 Plataforma Dermatológica Hiperlocal
+📌 Descripción del proyecto
 
-Esta API permite gestionar el agendamiento de citas médicas para múltiples especialidades como medicina general, optometría, odontología y otras. Está diseñada para que tanto pacientes como profesionales de la salud puedan administrar sus horarios de forma flexible, incluyendo la creación, cancelación y reprogramación de citas.
+Este proyecto consiste en el desarrollo de una plataforma digital hiperlocal orientada a consultorios dermatológicos, con el objetivo de mejorar la conexión entre pacientes, especialistas y servicios disponibles dentro de la comunidad.
 
-🚀 Características principales
-📅 Agendamiento de citas por especialidad
-👨‍⚕️ Gestión de horarios por parte de médicos
-👤 Registro y autenticación de pacientes y profesionales
-🔄 Reprogramación de citas (pacientes y médicos)
-❌ Cancelación de citas
-⏰ Control de disponibilidad en tiempo real
-🔔 Notificaciones (opcional)
+La plataforma busca digitalizar procesos clave como la gestión de citas, la visualización de servicios dermatológicos y la comercialización de productos, ofreciendo una solución moderna, accesible y eficiente.
+
+❗ Problemática
+
+Actualmente, muchos consultorios dermatológicos operan con procesos manuales o poco integrados, lo que genera:
+
+Desorganización en la gestión de citas
+Pérdida de tiempo y posibles pacientes
+Baja visibilidad de servicios y productos
+Dificultad para los pacientes al acceder a información confiable
+
+Además, existe una desconexión entre los consultorios y la comunidad local, afectando tanto la experiencia del usuario como el crecimiento del negocio.
+
+🎯 Objetivo general
+
+Desarrollar una plataforma digital que permita:
+
+Conectar pacientes con consultorios dermatológicos
+Facilitar el agendamiento de citas
+Centralizar servicios y productos dermatológicos
+Mejorar la experiencia del usuario
+Fortalecer la economía local
+
+✅ Funcionalidades principales (Primera fase)
+Registro e inicio de sesión de usuarios
+Gestión de perfil de usuario
+Visualización de servicios dermatológicos
+Agendamiento, modificación y cancelación de citas
+Catálogo de productos dermatológicos
+Notificaciones y recordatorios de citas
+
+🛠️ Tecnologías utilizadas
+Backend: Python
+Framework: Flask
+Base de datos: MySQL / PostgreSQL
+Control de versiones: Git + GitHub
