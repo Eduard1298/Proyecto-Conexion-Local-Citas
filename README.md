@@ -17,15 +17,14 @@ Además, existe una desconexión entre los consultorios y la comunidad local, af
 
 🎯 Objetivo general
 
-Desarrollar una plataforma digital que permita:
-
 Conectar pacientes con consultorios dermatológicos
 Facilitar el agendamiento de citas
 Centralizar servicios y productos dermatológicos
 Mejorar la experiencia del usuario
 Fortalecer la economía local
 
-✅ Funcionalidades principales (Primera fase)
+✅ Funcionalidades principales
+
 Registro e inicio de sesión de usuarios
 Gestión de perfil de usuario
 Visualización de servicios dermatológicos
