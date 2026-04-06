@@ -1,6 +1,5 @@
 # Proyecto-Conexion-Local-Citas
 🏥 API de Agendamiento de Citas Médicas
-📌 Descripción
 
 Esta API permite gestionar el agendamiento de citas médicas para múltiples especialidades como medicina general, optometría, odontología y otras. Está diseñada para que tanto pacientes como profesionales de la salud puedan administrar sus horarios de forma flexible, incluyendo la creación, cancelación y reprogramación de citas.
 
