@@ -9,9 +9,13 @@ La plataforma busca digitalizar procesos clave como la gestión de citas, la vis
 Actualmente, muchos consultorios dermatológicos operan con procesos manuales o poco integrados, lo que genera:
 
 Desorganización en la gestión de citas.
+
 Pérdida de tiempo y posibles pacientes.
+
 Baja visibilidad de servicios y productos.
+
 Dificultad para los pacientes al acceder a información confiable.
+
 
 Además, existe una desconexión entre los consultorios y la comunidad local, afectando tanto la experiencia del usuario como el crecimiento del negocio.
 
